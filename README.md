@@ -2,6 +2,9 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=brianna)](https://solved.ac/brianna)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokyung95)](https://github.com/bokyung95/github-readme-stats)
+
 <!--
 **bokyung95/bokyung95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
